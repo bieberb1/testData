@@ -1,0 +1,102 @@
+HCPCS,MOD,DESCRIPTION,CODE,PAYMENT,WorkRVU,NonFacPeRvu,NonFacNaIndicator,FacPeRvu,FacNaIndicator,MpRvu,NonFacTotal,FacTotal,PctcInd,GlobDays,PreOp,IntraOp,PostOp,multProc,BilatSurg,AsstSurg,CoSurg,TeamSurg,EndoBase,ConvFactor,PhysnSupvsDxProc,CalculationFlag,DxImagingFamilyIndic,NonFacPeForOppsPmt,FacPeForOppsPmt,MpForOppsPmt
+A0021,,Outside state ambulance serv,I,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A0080,,Noninterest escort in non er,I,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A0090,,Interest escort in non er,I,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A0100,,Nonemergency transport taxi,I,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A0110,,Nonemergency transport bus,I,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A0120,,Noner transport mini-bus,I,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A0130,,Noner transport wheelch van,I,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A0140,,Nonemergency transport air,I,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A0160,,Noner transport case worker,I,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A0170,,Transport parking fees/tolls,I,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A0180,,Noner transport lodgng recip,I,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A0190,,Noner transport meals recip,I,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A0200,,Noner transport lodgng escrt,I,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A0210,,Noner transport meals escort,I,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A0225,,Neonatal emergency transport,I,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A0380,,Basic life support mileage,I,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A0382,,Basic support routine suppls,X,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A0384,,Bls defibrillation supplies,X,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A0390,,Advanced life support mileag,I,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A0392,,Als defibrillation supplies,X,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A0394,,Als iv drug therapy supplies,X,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A0396,,Als esophageal intub suppls,X,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A0398,,Als routine disposble suppls,X,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A0420,,Ambulance waiting 1/2 hr,X,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A0422,,Ambulance 02 life sustaining,X,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A0424,,Extra ambulance attendant,X,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A0425,,Ground mileage,X,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A0426,,Als 1,X,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A0427,,Als1-emergency,X,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A0428,,Bls,X,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A0429,,Bls-emergency,X,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A0430,,Fixed wing air transport,X,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A0431,,Rotary wing air transport,X,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A0432,,Pi volunteer ambulance co,X,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A0433,,Als 2,X,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A0434,,Specialty care transport,X,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A0435,,Fixed wing air mileage,X,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A0436,,Rotary wing air mileage,X,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A0888,,Noncovered ambulance mileage,N,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A0998,,Ambulance response/treatment,I,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A0999,,Unlisted ambulance service,X,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A2001,,"Innovamatrix ac, per sq cm",C,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A2002,,Mirragen adv wnd mat per sq,C,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A2004,,"Xcellistem, per sq cm",C,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A2005,,"Microlyte matrix, per sq cm",C,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A2006,,Novosorb synpath per sq cm,C,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A2007,,"Restrata, per sq cm",C,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A2008,,"Theragenesis, per sq cm",C,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A2009,,"Symphony, per sq cm",C,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A2010,,"Apis, per square centimeter",C,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A2011,,"Supra sdrm, per square cm",C,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A2012,,"Suprathel, per sq cm",C,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A2013,,"Innovamatrix fs, per sq cm",C,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A4100,,Skin sub fda clrd as dev nos,C,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A4206,,1 cc sterile syringe&needle,X,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A4207,,2 cc sterile syringe&needle,X,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A4208,,3 cc sterile syringe&needle,X,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A4209,,5+ cc sterile syringe&needle,X,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A4210,,Nonneedle injection device,N,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A4211,,Supp for self-adm injections,P,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A4212,,Non coring needle or stylet,P,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A4213,,20+ cc syringe only,X,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A4215,,Sterile needle,X,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A4216,,"Sterile water/saline, 10 ml",X,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A4217,,"Sterile water/saline, 500 ml",X,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A4218,,Sterile saline or water,X,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A4220,,Infusion pump refill kit,P,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A4221,,Supp non-insulin inf cath/wk,X,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A4222,,Infusion supplies with pump,X,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A4223,,Infusion supplies w/o pump,X,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A4224,,Supply insulin inf cath/wk,X,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A4225,,Sup/ext insulin inf pump syr,X,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A4226,,Weekly supply maint cgs pump,I,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A4230,,Infus insulin pump non needl,X,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A4231,,Infusion insulin pump needle,X,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A4232,,Syringe w/needle insulin 3cc,I,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A4233,,Alkalin batt for glucose mon,X,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A4234,,J-cell batt for glucose mon,X,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A4235,,Lithium batt for glucose mon,X,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A4236,,Silvr oxide batt glucose mon,X,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A4238,,Adju cgm supply allowance,X,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A4244,,Alcohol or peroxide per pint,X,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A4245,,Alcohol wipes per box,X,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A4246,,Betadine/phisohex solution,X,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A4247,,Betadine/iodine swabs/wipes,X,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A4248,,Chlorhexidine antisept,X,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A4250,,Urine reagent strips/tablets,N,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A4252,,Blood ketone test or strip,N,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A4253,,Blood glucose/reagent strips,P,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A4255,,Glucose monitor platforms,X,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A4256,,Calibrator solution/chips,P,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A4257,,Replace lensshield cartridge,X,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A4258,,Lancet device each,P,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A4259,,Lancets per box,P,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A4261,,Cervical cap contraceptive,N,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A4262,,Temporary tear duct plug,B,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A4263,,Permanent tear duct plug,B,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A4264,,Intratubal occlusion device,I,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A4265,,Paraffin,P,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+A4266,,Diaphragm,I,,0,0,,0,,0,0,0,9,XXX,0,0,0,9,9,9,9,9,,34.6062,9,0,99,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
